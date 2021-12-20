@@ -1,0 +1,68 @@
+.activebuttonStyle {
+  font-size: 0.6vw;
+  font-family: 'Roboto', sans-serif;
+  font-size: 0.75vw;
+  padding: 2% 5%;
+  background-color: #0288e7;
+  display: inline-block;
+  color: white;
+  border: 0.16em solid #dfdfdf;
+  border-radius: 4px;
+}
+.inactivebuttonStyle {
+  font-size: 0.75vw;
+  font-family: 'Roboto', sans-serif;
+  padding: 2% 5%;
+  border: 1px solid #dfdfdf;
+  background-color: #e3f0ff;
+  border-radius: 4px;
+}
+
+.activebuttonStyle:hover {
+  background-color: #07c;
+  cursor: pointer;
+}
+
+.inactivebuttonStyle:hover {
+  background-color: #07c;
+  cursor: pointer;
+  color: white;
+}
+
+.activebuttonStyle:active {
+  background-color: #0064bd;
+  box-shadow: none;
+}
+
+.downloadbuttonStyle {
+  font-family: 'Roboto', sans-serif;
+  font-size: 0.75vw;
+  padding: 4% 6%;
+  background-color: #517188;
+  display: inline-block;
+  color: white;
+  border: 0.16em solid #dfdfdf;
+  border-radius: 4px;
+}
+
+.downloadbuttonStyle:hover {
+  cursor: pointer;
+}
+
+.preparing {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+}
+
+.readmorebuttonStyle {
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  font-size: 0.8vw;
+  color: grey;
+}
+
+.readmorebuttonStyle:hover {
+  cursor: pointer;
+  color: rgb(190, 190, 190);
+}

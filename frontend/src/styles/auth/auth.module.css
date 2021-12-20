@@ -1,0 +1,28 @@
+input:focus {
+  background-color: transparent;
+}
+
+.main {
+  padding-top: 5%;
+}
+
+.textfield {
+  width: 25%;
+  border-radius: 10px;
+  font-size: 1vw;
+  border: 1.5px solid black;
+  display: block;
+  background-color: transparent;
+  margin-bottom: 20px;
+  padding: 0.8%;
+}
+
+.textfieldcontainer,
+.titlecontainer {
+  padding-top: 2%;
+}
+
+.heronimg {
+  width: 35%;
+  margin-right: 5%;
+}
