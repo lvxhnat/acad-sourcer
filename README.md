@@ -4,6 +4,13 @@
 
 Project Pilot is a take on JSTOR's constellate API, merging the functionalities of Google Scholar and Library Genesis, to allow users to browse and download research papers for free on demand, on top of other additional features. 
 
+The site allows users to filter by academic paper categories and observe their popularity over time. Top academic papers ranked by JSTOR's popularity score are surfaced as the top results, which can then be archived into a personal repository (Archive). 
+![](_media/fp1.png)
+
+In the personal repository (Archive), papers are once again separated by category, and ranked by date added. More detailed functionalities are described below under the Features tag!
+![](_media/fp2.png)
+
+#### To what end? 
 The main objective for this project is for me to practice and dive deeper into some of the inner workings of React and Django, with the secondary objective to reduce the inconvenience of searching for a mirror download on Library Genesis everytime an interesting paper is surfaced. 
 
 ### 🏗 Architecture and Project Files
